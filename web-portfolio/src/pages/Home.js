@@ -120,19 +120,19 @@ const Home = () => {
               className={styles.footer_icons}
               href="mailto:lagl24@protonmail.com"
             >
-              <img src={email_icon} />
+              <img src={email_icon} alt="email" />
             </a>
             <a
               className={styles.footer_icons}
               href="https://gitlab.com/Lianne-G"
             >
-              <img src={gitlab_icon} />
+              <img src={gitlab_icon} alt="gitlab" />
             </a>
             <a
               className={styles.footer_icons}
               href="https://gitlab.com/Lianne-G"
             >
-              <img src={linkedin_icon} />
+              <img src={linkedin_icon} alt="linkedin" />
             </a>
           </p>
         </div>
